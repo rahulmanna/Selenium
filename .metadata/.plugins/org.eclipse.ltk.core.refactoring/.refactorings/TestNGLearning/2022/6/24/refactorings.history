@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;parameters.xml&apos; to &apos;TestNGLearning&apos;&#x0D;&#x0A;- Original project: &apos;TestNGLearning&apos;&#x0D;&#x0A;- Destination element: &apos;TestNGLearning&apos;&#x0D;&#x0A;- Original element: &apos;parameters.xml&apos;" description="Copy file" element1="parameters.xml" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1654750635581" target="/TestNGLearning" units="0" version="1.0"/>
+</session>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="testcases.TestCase1"/>
+      <class name="ParallelTest.TestParallelDP"/>
+      <class name="testcases.TestCase2"/>
+      <class name="testcases.TestCase3"/>
+      <class name="testcases.TestFailure"/>
+      <class name="regression.TestCase2"/>
+      <class name="regression.TestCase1"/>
+      <class name="ReTryAnalyser.MyTests"/>
+      <class name="testcases.BaseTest"/>
+      <class name="ParallelTest.TestInvocation"/>
+      <class name="testcases.TestSkip"/>
+      <class name="parameterization.TestParameterization"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
